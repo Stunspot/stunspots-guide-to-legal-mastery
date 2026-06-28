@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Stunspot's Guide to Legal Mastery"
+message: "If you use this canon, please cite it using this metadata."
+type: dataset
+authors:
+  - family-names: "Walker"
+    given-names: "Sam"
+    alias: "stunspot"
+    affiliation: "Collaborative Dynamics"
+version: "1.0"
+date-released: "2026-06-28"
+license: "CC-BY-NC-SA-4.0"
+url: "https://stunspot.github.io/stunspots-guide-to-legal-mastery/"
+repository-code: "https://github.com/Stunspot/stunspots-guide-to-legal-mastery"
+abstract: "A practical canon for legal mastery knowledge, reasoning, and AI/RAG use."
+keywords:
+  - "legal-mastery"
+  - "knowledge-systems"
+  - "rag"

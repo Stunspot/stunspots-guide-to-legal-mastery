@@ -1,0 +1,8 @@
+title: Stunspot's Guide to Legal Mastery
+description: A practical canon for legal mastery knowledge, reasoning, and AI/RAG use.
+show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
