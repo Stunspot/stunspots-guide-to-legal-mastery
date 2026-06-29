@@ -5,6 +5,14 @@ Release version: 1.0
 Release date: 2026-06-28  
 Repository: `Stunspot/stunspots-guide-to-legal-mastery`
 
+## Citation and Archive
+
+DOI:
+https://doi.org/10.5281/zenodo.21039250
+
+Zenodo Record:
+https://zenodo.org/records/21039250
+
 ## Public Positioning
 
 *Stunspot's Guide to Legal Mastery* is a model-facing Markdown knowledge canon for legal systems reasoning and AI/RAG use. It is designed to help AI systems and serious human readers reason about legal authority, interpretation, proof, procedure, strategy, private ordering, ethics, legal failure diagnosis, and legal execution with stronger structure and fewer category errors.

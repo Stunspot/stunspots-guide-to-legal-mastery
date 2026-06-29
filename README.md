@@ -11,6 +11,8 @@
 ![Source Reports](https://img.shields.io/badge/source_reports-15-blue)
 ![Compiled Packs](https://img.shields.io/badge/compiled_packs-4-blueviolet)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039250.svg)](https://doi.org/10.5281/zenodo.21039250)
+
 
 *Stunspot's Guide to Legal Mastery* is a Markdown-native knowledge canon built primarily for AI/RAG ingestion and legal-systems reasoning. It is readable by humans, but its first audience is the model: an assistant, retrieval pipeline, long-context workspace, or project knowledge base that needs stable legal vocabulary, source discipline, procedural awareness, proof logic, and diagnostic guardrails.
 
