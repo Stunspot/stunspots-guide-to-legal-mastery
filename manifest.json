@@ -1,204 +1,97 @@
 {
   "canon": {
     "title": "Stunspot's Guide to Legal Mastery",
+    "subtitle": "The Legal Systems and Practice Architecture Canon",
+    "description": "A model-facing Markdown knowledge canon for legal systems reasoning and AI/RAG use.",
     "slug": "legal-mastery",
     "version": "1.0",
-    "date_released": "2026-06-28"
+    "date_released": "2026-06-28",
+    "repository_full_name": "Stunspot/stunspots-guide-to-legal-mastery",
+    "repository_url": "https://github.com/Stunspot/stunspots-guide-to-legal-mastery",
+    "pages_url": "https://stunspot.github.io/stunspots-guide-to-legal-mastery/",
+    "license": "CC BY-NC-SA 4.0",
+    "author": "Sam \"stunspot\" Walker / Collaborative Dynamics"
   },
-  "corpus": {
-    "generated_at": "2026-06-28T22:24:33+00:00",
-    "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
-    "reports": [
-      {
-        "code": "A",
-        "title": "Legal Reality, Sovereign Power, and Jurisprudential Foundations",
-        "subtitle": "",
-        "source_filename": "A. Legal Reality, Sovereign Power, and Jurisprudential Foundations.md",
-        "source_path": "A. Legal Reality, Sovereign Power, and Jurisprudential Foundations.md",
-        "filename": "a-legal-reality-sovereign-power-and-jurisprudential-foundations.md",
-        "path": "knowledge-packs/by-report/a-legal-reality-sovereign-power-and-jurisprudential-foundations.md",
-        "size_bytes": 96752
-      },
-      {
-        "code": "B",
-        "title": "Sources of Law, Authority Hierarchies, and Doctrinal Architecture",
-        "subtitle": "",
-        "source_filename": "B. Sources of Law, Authority Hierarchies, and Doctrinal Architecture.md",
-        "source_path": "B. Sources of Law, Authority Hierarchies, and Doctrinal Architecture.md",
-        "filename": "b-sources-of-law-authority-hierarchies-and-doctrinal-architecture.md",
-        "path": "knowledge-packs/by-report/b-sources-of-law-authority-hierarchies-and-doctrinal-architecture.md",
-        "size_bytes": 56703
-      },
-      {
-        "code": "C",
-        "title": "Interpretation, Legal Reasoning, and Argument Architecture",
-        "subtitle": "",
-        "source_filename": "C. Interpretation, Legal Reasoning, and Argument Architecture.md",
-        "source_path": "C. Interpretation, Legal Reasoning, and Argument Architecture.md",
-        "filename": "c-interpretation-legal-reasoning-and-argument-architecture.md",
-        "path": "knowledge-packs/by-report/c-interpretation-legal-reasoning-and-argument-architecture.md",
-        "size_bytes": 79128
-      },
-      {
-        "code": "D",
-        "title": "Facts, Evidence, Proof, and Epistemic Burdens",
-        "subtitle": "",
-        "source_filename": "D. Facts, Evidence, Proof, and Epistemic Burdens.md",
-        "source_path": "D. Facts, Evidence, Proof, and Epistemic Burdens.md",
-        "filename": "d-facts-evidence-proof-and-epistemic-burdens.md",
-        "path": "knowledge-packs/by-report/d-facts-evidence-proof-and-epistemic-burdens.md",
-        "size_bytes": 130772
-      },
-      {
-        "code": "E",
-        "title": "Procedure, Remedies, and Forum Control",
-        "subtitle": "",
-        "source_filename": "E. Procedure, Remedies, and Forum Control.md",
-        "source_path": "E. Procedure, Remedies, and Forum Control.md",
-        "filename": "e-procedure-remedies-and-forum-control.md",
-        "path": "knowledge-packs/by-report/e-procedure-remedies-and-forum-control.md",
-        "size_bytes": 128123
-      },
-      {
-        "code": "F",
-        "title": "Litigation Strategy, Advocacy, and Adversarial Control",
-        "subtitle": "",
-        "source_filename": "F. Litigation Strategy, Advocacy, and Adversarial Control.md",
-        "source_path": "F. Litigation Strategy, Advocacy, and Adversarial Control.md",
-        "filename": "f-litigation-strategy-advocacy-and-adversarial-control.md",
-        "path": "knowledge-packs/by-report/f-litigation-strategy-advocacy-and-adversarial-control.md",
-        "size_bytes": 111357
-      },
-      {
-        "code": "G",
-        "title": "Client Counseling, Risk Governance, and Preventive Law",
-        "subtitle": "",
-        "source_filename": "G. Client Counseling, Risk Governance, and Preventive Law.md",
-        "source_path": "G. Client Counseling, Risk Governance, and Preventive Law.md",
-        "filename": "g-client-counseling-risk-governance-and-preventive-law.md",
-        "path": "knowledge-packs/by-report/g-client-counseling-risk-governance-and-preventive-law.md",
-        "size_bytes": 134999
-      },
-      {
-        "code": "H",
-        "title": "Transactional Architecture, Contract Design, and Private Ordering",
-        "subtitle": "",
-        "source_filename": "H. Transactional Architecture, Contract Design, and Private Ordering.md",
-        "source_path": "H. Transactional Architecture, Contract Design, and Private Ordering.md",
-        "filename": "h-transactional-architecture-contract-design-and-private-ordering.md",
-        "path": "knowledge-packs/by-report/h-transactional-architecture-contract-design-and-private-ordering.md",
-        "size_bytes": 142359
-      },
-      {
-        "code": "I",
-        "title": "Public Law, Rights Enforcement, and Administrative Governance",
-        "subtitle": "",
-        "source_filename": "I. Public Law, Rights Enforcement, and Administrative Governance.md",
-        "source_path": "I. Public Law, Rights Enforcement, and Administrative Governance.md",
-        "filename": "i-public-law-rights-enforcement-and-administrative-governance.md",
-        "path": "knowledge-packs/by-report/i-public-law-rights-enforcement-and-administrative-governance.md",
-        "size_bytes": 153505
-      },
-      {
-        "code": "J",
-        "title": "Private Law, Civil Obligation, and Liability Systems",
-        "subtitle": "",
-        "source_filename": "J. Private Law, Civil Obligation, and Liability Systems.md",
-        "source_path": "J. Private Law, Civil Obligation, and Liability Systems.md",
-        "filename": "j-private-law-civil-obligation-and-liability-systems.md",
-        "path": "knowledge-packs/by-report/j-private-law-civil-obligation-and-liability-systems.md",
-        "size_bytes": 60241
-      },
-      {
-        "code": "K",
-        "title": "Criminal Law, Punishment, and State Coercion",
-        "subtitle": "",
-        "source_filename": "K. Criminal Law, Punishment, and State Coercion.md",
-        "source_path": "K. Criminal Law, Punishment, and State Coercion.md",
-        "filename": "k-criminal-law-punishment-and-state-coercion.md",
-        "path": "knowledge-packs/by-report/k-criminal-law-punishment-and-state-coercion.md",
-        "size_bytes": 101906
-      },
-      {
-        "code": "L",
-        "title": "Professional Responsibility, Fiduciary Duty, and Legal Ethics",
-        "subtitle": "",
-        "source_filename": "L. Professional Responsibility, Fiduciary Duty, and Legal Ethics.md",
-        "source_path": "L. Professional Responsibility, Fiduciary Duty, and Legal Ethics.md",
-        "filename": "l-professional-responsibility-fiduciary-duty-and-legal-ethics.md",
-        "path": "knowledge-packs/by-report/l-professional-responsibility-fiduciary-duty-and-legal-ethics.md",
-        "size_bytes": 95816
-      },
-      {
-        "code": "M",
-        "title": "Power, Inequality, Access to Justice, and Institutional Legitimacy",
-        "subtitle": "",
-        "source_filename": "M. Power, Inequality, Access to Justice, and Institutional Legitimacy.md",
-        "source_path": "M. Power, Inequality, Access to Justice, and Institutional Legitimacy.md",
-        "filename": "m-power-inequality-access-to-justice-and-institutional-legitimacy.md",
-        "path": "knowledge-packs/by-report/m-power-inequality-access-to-justice-and-institutional-legitimacy.md",
-        "size_bytes": 66227
-      },
-      {
-        "code": "N",
-        "title": "Legal Failure Modes, Case Pathology, and Diagnostic Repair",
-        "subtitle": "",
-        "source_filename": "N. Legal Failure Modes, Case Pathology, and Diagnostic Repair.md",
-        "source_path": "N. Legal Failure Modes, Case Pathology, and Diagnostic Repair.md",
-        "filename": "n-legal-failure-modes-case-pathology-and-diagnostic-repair.md",
-        "path": "knowledge-packs/by-report/n-legal-failure-modes-case-pathology-and-diagnostic-repair.md",
-        "size_bytes": 74314
-      },
-      {
-        "code": "O",
-        "title": "Legal Research, Writing, Workflows, and Practice Artifacts",
-        "subtitle": "",
-        "source_filename": "O. Legal Research, Writing, Workflows, and Practice Artifacts.md",
-        "source_path": "O. Legal Research, Writing, Workflows, and Practice Artifacts.md",
-        "filename": "o-legal-research-writing-workflows-and-practice-artifacts.md",
-        "path": "knowledge-packs/by-report/o-legal-research-writing-workflows-and-practice-artifacts.md",
-        "size_bytes": 97241
-      }
-    ],
-    "compiled_packs": [
-      {
-        "label": "Vol. 1 A-D Foundations of Law, Authority, and Judgment",
-        "source_filename": "[KNOWLEDGE] - Vol. 1 A-D Foundations of Law, Authority, and Judgment.md",
-        "source_path": "[KNOWLEDGE] - Vol. 1 A-D Foundations of Law, Authority, and Judgment.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-vol-1-a-d-foundations-of-law-authority-and-judgment.md",
-        "size_bytes": 364074
-      },
-      {
-        "label": "Vol. 2 E-K Core Operating Domains of Legal Practice",
-        "source_filename": "[KNOWLEDGE] - Vol. 2 E-K Core Operating Domains of Legal Practice.md",
-        "source_path": "[KNOWLEDGE] - Vol. 2 E-K Core Operating Domains of Legal Practice.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-vol-2-e-k-core-operating-domains-of-legal-practice.md",
-        "size_bytes": 833531
-      },
-      {
-        "label": "Vol. 3 L-M Constraint, Specialization, and Legitimacy Layers",
-        "source_filename": "[KNOWLEDGE] - Vol. 3 L-M Constraint, Specialization, and Legitimacy Layers.md",
-        "source_path": "[KNOWLEDGE] - Vol. 3 L-M Constraint, Specialization, and Legitimacy Layers.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-vol-3-l-m-constraint-specialization-and-legitimacy-layers.md",
-        "size_bytes": 162536
-      },
-      {
-        "label": "Vol. 4 N-O Diagnosis, Failure Modes, and Execution Systems",
-        "source_filename": "[KNOWLEDGE] - Vol. 4 N-O Diagnosis, Failure Modes, and Execution Systems.md",
-        "source_path": "[KNOWLEDGE] - Vol. 4 N-O Diagnosis, Failure Modes, and Execution Systems.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-vol-4-n-o-diagnosis-failure-modes-and-execution-systems.md",
-        "size_bytes": 172020
-      }
-    ],
-    "omnibus": [
-      {
-        "label": "Legal Mastery - Omnibus",
-        "source_filename": "[KNOWLEDGE] - Legal Mastery - Omnibus.md",
-        "source_path": "[KNOWLEDGE] - Legal Mastery - Omnibus.md",
-        "dest_path": "knowledge-packs/omnibus/knowledge-legal-mastery-omnibus.md",
-        "size_bytes": 1532239
-      }
-    ],
-    "unclassified": []
-  }
+  "directory_policy": {
+    "docs": "Navigation, GitHub Pages metadata, and usage guidance only.",
+    "source_reports": "knowledge-packs/by-report/",
+    "compiled_packs": "knowledge-packs/compiled-packs/",
+    "omnibus": "knowledge-packs/omnibus/",
+    "no_docs_reports_directory": true
+  },
+  "counts": {
+    "source_reports": 15,
+    "compiled_packs": 4,
+    "omnibus_files": 1,
+    "unclassified_files": 0
+  },
+  "repository_files": [
+    "README.md",
+    "LICENSE.md",
+    "CITATION.cff",
+    "CHANGELOG.md",
+    "COPY_CONTEXT.md",
+    "MANIFEST.md",
+    "STATUS.md",
+    "manifest.json",
+    "docs/_config.yml",
+    "docs/index.md",
+    "docs/canon-map.md",
+    "docs/how-to-use-this-canon.md",
+    "docs/knowledge-packs.md",
+    "docs/_layouts/default.html",
+    "docs/assets/css/style.css",
+    "docs/assets/brand/coldwire-bg.jpg",
+    "knowledge-packs/by-report/a-legal-reality-sovereign-power-and-jurisprudential-foundations.md",
+    "knowledge-packs/by-report/b-sources-of-law-authority-hierarchies-and-doctrinal-architecture.md",
+    "knowledge-packs/by-report/c-interpretation-legal-reasoning-and-argument-architecture.md",
+    "knowledge-packs/by-report/d-facts-evidence-proof-and-epistemic-burdens.md",
+    "knowledge-packs/by-report/e-procedure-remedies-and-forum-control.md",
+    "knowledge-packs/by-report/f-litigation-strategy-advocacy-and-adversarial-control.md",
+    "knowledge-packs/by-report/g-client-counseling-risk-governance-and-preventive-law.md",
+    "knowledge-packs/by-report/h-transactional-architecture-contract-design-and-private-ordering.md",
+    "knowledge-packs/by-report/i-public-law-rights-enforcement-and-administrative-governance.md",
+    "knowledge-packs/by-report/j-private-law-civil-obligation-and-liability-systems.md",
+    "knowledge-packs/by-report/k-criminal-law-punishment-and-state-coercion.md",
+    "knowledge-packs/by-report/l-professional-responsibility-fiduciary-duty-and-legal-ethics.md",
+    "knowledge-packs/by-report/m-power-inequality-access-to-justice-and-institutional-legitimacy.md",
+    "knowledge-packs/by-report/n-legal-failure-modes-case-pathology-and-diagnostic-repair.md",
+    "knowledge-packs/by-report/o-legal-research-writing-workflows-and-practice-artifacts.md",
+    "knowledge-packs/compiled-packs/knowledge-vol-1-a-d-foundations-of-law-authority-and-judgment.md",
+    "knowledge-packs/compiled-packs/knowledge-vol-2-e-k-core-operating-domains-of-legal-practice.md",
+    "knowledge-packs/compiled-packs/knowledge-vol-3-l-m-constraint-specialization-and-legitimacy-layers.md",
+    "knowledge-packs/compiled-packs/knowledge-vol-4-n-o-diagnosis-failure-modes-and-execution-systems.md",
+    "knowledge-packs/omnibus/knowledge-legal-mastery-omnibus.md"
+  ],
+  "referenced_future_assets": [
+    "docs/assets/brand/readme-hero.png",
+    "docs/assets/brand/pages-hero.png",
+    "docs/assets/brand/social-preview.png"
+  ],
+  "source_reports": [
+    {"code":"A","title":"Legal Reality, Sovereign Power, and Jurisprudential Foundations","source_filename":"A. Legal Reality, Sovereign Power, and Jurisprudential Foundations.md","path":"knowledge-packs/by-report/a-legal-reality-sovereign-power-and-jurisprudential-foundations.md","size_bytes":96752},
+    {"code":"B","title":"Sources of Law, Authority Hierarchies, and Doctrinal Architecture","source_filename":"B. Sources of Law, Authority Hierarchies, and Doctrinal Architecture.md","path":"knowledge-packs/by-report/b-sources-of-law-authority-hierarchies-and-doctrinal-architecture.md","size_bytes":56703},
+    {"code":"C","title":"Interpretation, Legal Reasoning, and Argument Architecture","source_filename":"C. Interpretation, Legal Reasoning, and Argument Architecture.md","path":"knowledge-packs/by-report/c-interpretation-legal-reasoning-and-argument-architecture.md","size_bytes":79128},
+    {"code":"D","title":"Facts, Evidence, Proof, and Epistemic Burdens","source_filename":"D. Facts, Evidence, Proof, and Epistemic Burdens.md","path":"knowledge-packs/by-report/d-facts-evidence-proof-and-epistemic-burdens.md","size_bytes":130772},
+    {"code":"E","title":"Procedure, Remedies, and Forum Control","source_filename":"E. Procedure, Remedies, and Forum Control.md","path":"knowledge-packs/by-report/e-procedure-remedies-and-forum-control.md","size_bytes":128123},
+    {"code":"F","title":"Litigation Strategy, Advocacy, and Adversarial Control","source_filename":"F. Litigation Strategy, Advocacy, and Adversarial Control.md","path":"knowledge-packs/by-report/f-litigation-strategy-advocacy-and-adversarial-control.md","size_bytes":111357},
+    {"code":"G","title":"Client Counseling, Risk Governance, and Preventive Law","source_filename":"G. Client Counseling, Risk Governance, and Preventive Law.md","path":"knowledge-packs/by-report/g-client-counseling-risk-governance-and-preventive-law.md","size_bytes":134999},
+    {"code":"H","title":"Transactional Architecture, Contract Design, and Private Ordering","source_filename":"H. Transactional Architecture, Contract Design, and Private Ordering.md","path":"knowledge-packs/by-report/h-transactional-architecture-contract-design-and-private-ordering.md","size_bytes":142359},
+    {"code":"I","title":"Public Law, Rights Enforcement, and Administrative Governance","source_filename":"I. Public Law, Rights Enforcement, and Administrative Governance.md","path":"knowledge-packs/by-report/i-public-law-rights-enforcement-and-administrative-governance.md","size_bytes":153505},
+    {"code":"J","title":"Private Law, Civil Obligation, and Liability Systems","source_filename":"J. Private Law, Civil Obligation, and Liability Systems.md","path":"knowledge-packs/by-report/j-private-law-civil-obligation-and-liability-systems.md","size_bytes":60241},
+    {"code":"K","title":"Criminal Law, Punishment, and State Coercion","source_filename":"K. Criminal Law, Punishment, and State Coercion.md","path":"knowledge-packs/by-report/k-criminal-law-punishment-and-state-coercion.md","size_bytes":101906},
+    {"code":"L","title":"Professional Responsibility, Fiduciary Duty, and Legal Ethics","source_filename":"L. Professional Responsibility, Fiduciary Duty, and Legal Ethics.md","path":"knowledge-packs/by-report/l-professional-responsibility-fiduciary-duty-and-legal-ethics.md","size_bytes":95816},
+    {"code":"M","title":"Power, Inequality, Access to Justice, and Institutional Legitimacy","source_filename":"M. Power, Inequality, Access to Justice, and Institutional Legitimacy.md","path":"knowledge-packs/by-report/m-power-inequality-access-to-justice-and-institutional-legitimacy.md","size_bytes":66227},
+    {"code":"N","title":"Legal Failure Modes, Case Pathology, and Diagnostic Repair","source_filename":"N. Legal Failure Modes, Case Pathology, and Diagnostic Repair.md","path":"knowledge-packs/by-report/n-legal-failure-modes-case-pathology-and-diagnostic-repair.md","size_bytes":74314},
+    {"code":"O","title":"Legal Research, Writing, Workflows, and Practice Artifacts","source_filename":"O. Legal Research, Writing, Workflows, and Practice Artifacts.md","path":"knowledge-packs/by-report/o-legal-research-writing-workflows-and-practice-artifacts.md","size_bytes":97241}
+  ],
+  "compiled_packs": [
+    {"label":"Vol. 1 A-D Foundations of Law, Authority, and Judgment","source_filename":"[KNOWLEDGE] - Vol. 1 A-D Foundations of Law, Authority, and Judgment.md","path":"knowledge-packs/compiled-packs/knowledge-vol-1-a-d-foundations-of-law-authority-and-judgment.md","size_bytes":364074},
+    {"label":"Vol. 2 E-K Core Operating Domains of Legal Practice","source_filename":"[KNOWLEDGE] - Vol. 2 E-K Core Operating Domains of Legal Practice.md","path":"knowledge-packs/compiled-packs/knowledge-vol-2-e-k-core-operating-domains-of-legal-practice.md","size_bytes":833531},
+    {"label":"Vol. 3 L-M Constraint, Specialization, and Legitimacy Layers","source_filename":"[KNOWLEDGE] - Vol. 3 L-M Constraint, Specialization, and Legitimacy Layers.md","path":"knowledge-packs/compiled-packs/knowledge-vol-3-l-m-constraint-specialization-and-legitimacy-layers.md","size_bytes":162536},
+    {"label":"Vol. 4 N-O Diagnosis, Failure Modes, and Execution Systems","source_filename":"[KNOWLEDGE] - Vol. 4 N-O Diagnosis, Failure Modes, and Execution Systems.md","path":"knowledge-packs/compiled-packs/knowledge-vol-4-n-o-diagnosis-failure-modes-and-execution-systems.md","size_bytes":172020}
+  ],
+  "omnibus": [
+    {"label":"Legal Mastery - Omnibus","source_filename":"[KNOWLEDGE] - Legal Mastery - Omnibus.md","path":"knowledge-packs/omnibus/knowledge-legal-mastery-omnibus.md","size_bytes":1532239}
+  ]
 }
