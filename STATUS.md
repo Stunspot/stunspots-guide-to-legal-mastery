@@ -10,13 +10,13 @@
 - Compiled packs: 4
 - Omnibus files: 1
 - Repository status: first public canon release
-- License: CC BY-NC-SA 4.0
+- License: Creative Commons Attribution 4.0 International
 
 ## Maturity
 
 The corpus is structurally complete for this release. The source reports, compiled packs, omnibus bundle, manifest files, public documentation, citation metadata, and repository map are present and aligned.
 
-This is not a claim that every legal proposition is current in every jurisdiction. Legal materials require live verification before high-impact use. Treat the canon as a reasoning and orientation framework, not as a substitute for primary authority, citator checks, local rules, procedural records, or professional judgment.
+Treat the canon as a reasoning and orientation framework that still requires source verification before high-impact use.
 
 ## Canonical File Policy
 
