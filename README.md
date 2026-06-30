@@ -37,6 +37,10 @@ Use it as legal-reasoning doctrine for AI systems.
 Use it as a map of legal power, proof, process, ethics, and execution.  
 Verify live law before relying on it.
 
+Part of the Stunspot’s Guide to… Advanced Knowledge Base Library
+Browse the full library: 
+[Gateway Repo](https://github.com/Stunspot/stunspots-guides) · [stunspot.com](stunspot.com/#guides)
+
 ---
 
 ## Start Here
