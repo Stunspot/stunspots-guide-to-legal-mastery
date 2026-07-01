@@ -80,7 +80,7 @@ This volume establishes the legal system as a layered architecture of power, aut
 
 ### Volume 2 — E-K: Core Operating Domains of Legal Practice
 
-This volume moves from foundations into the main operating fields of legal action: procedure, advocacy, counseling, transactions, public law, private law, and public-enforcement process.
+This volume moves from foundations into the main operating fields of legal action: procedure, advocacy, counseling, transactions, public law, private law, and criminal law.
 
 - **E. Procedure, Remedies, and Forum Control** — treats procedure as the action architecture that determines whether rights can become enforceable institutional outcomes.
 - **F. Litigation Strategy, Advocacy, and Adversarial Control** — maps adversarial leverage, case theory, motion practice, narrative control, settlement pressure, and strategic sequencing.
@@ -88,7 +88,7 @@ This volume moves from foundations into the main operating fields of legal actio
 - **H. Transactional Architecture, Contract Design, and Private Ordering** — frames contracts, corporate instruments, and deal structures as designed private legal systems.
 - **I. Public Law, Rights Enforcement, and Administrative Governance** — covers constitutional, statutory, regulatory, rights-enforcement, and administrative power.
 - **J. Private Law, Civil Obligation, and Liability Systems** — organizes tort, contract, property, restitution, civil liability, and private enforcement logic.
-- **K. Public Enforcement, Culpability, and Process Safeguards** — maps enforcement authority, culpability concepts, prosecution and defense roles, public sanction, and process safeguards.
+- **K. Criminal Law, Punishment, and State Coercion** — maps offenses, culpability, prosecution, defense, punishment, sentencing, public coercion, and process safeguards.
 
 ### Volume 3 — L-M: Constraint, Specialization, and Legitimacy Layers
 
