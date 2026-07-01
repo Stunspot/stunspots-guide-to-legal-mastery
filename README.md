@@ -149,8 +149,28 @@ Recommended operating rules:
 │           └── coldwire-bg.jpg
 └── knowledge-packs/
     ├── by-report/
+    │   ├── a-legal-reality-sovereign-power-and-jurisprudential-foundations.md
+    │   ├── b-sources-of-law-authority-hierarchies-and-doctrinal-architecture.md
+    │   ├── c-interpretation-legal-reasoning-and-argument-architecture.md
+    │   ├── d-facts-evidence-proof-and-epistemic-burdens.md
+    │   ├── e-procedure-remedies-and-forum-control.md
+    │   ├── f-litigation-strategy-advocacy-and-adversarial-control.md
+    │   ├── g-client-counseling-risk-governance-and-preventive-law.md
+    │   ├── h-transactional-architecture-contract-design-and-private-ordering.md
+    │   ├── i-public-law-rights-enforcement-and-administrative-governance.md
+    │   ├── j-private-law-civil-obligation-and-liability-systems.md
+    │   ├── k-criminal-law-punishment-and-state-coercion.md
+    │   ├── l-professional-responsibility-fiduciary-duty-and-legal-ethics.md
+    │   ├── m-power-inequality-access-to-justice-and-institutional-legitimacy.md
+    │   ├── n-legal-failure-modes-case-pathology-and-diagnostic-repair.md
+    │   └── o-legal-research-writing-workflows-and-practice-artifacts.md
     ├── compiled-packs/
+    │   ├── knowledge-vol-1-a-d-foundations-of-law-authority-and-judgment.md
+    │   ├── knowledge-vol-2-e-k-core-operating-domains-of-legal-practice.md
+    │   ├── knowledge-vol-3-l-m-constraint-specialization-and-legitimacy-layers.md
+    │   └── knowledge-vol-4-n-o-diagnosis-failure-modes-and-execution-systems.md
     └── omnibus/
+        └── knowledge-legal-mastery-omnibus.md
 ```
 
 The README and Pages layout intentionally retain references to future brand assets:
